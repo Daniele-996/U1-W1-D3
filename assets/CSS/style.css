@@ -2,10 +2,13 @@ header {
   text-align: center;
   margin-bottom: 0;
 }
+id primo {
+  background-color: rgb(249, 227, 164);
+}
 hr {
   border-style: solid;
   color: rgba(249, 227, 164);
-  margin: 0;
+  margin-top: 20;
   margin: collapse;
 }
 span {
@@ -14,13 +17,26 @@ span {
   background-color: rgb(249, 227, 164);
   margin: 0;
   margin-top: collapse;
-  background-color: rgb(249, 227, 164);
+  background-color: rgb(246, 233, 197);
 }
 article {
-  margin: 20%;
+  margin: 30%;
   margin-top: 0;
   text-align: center;
 }
 ul {
   text-align: left;
+}
+hr #one {
+  border-style: solid;
+}
+id first {
+  text-align: left;
+}
+id #second {
+  text-decoration-color: red;
+}
+id #third {
+  text-decoration-color: blue;
+  text-underline-offset: blue;
 }
