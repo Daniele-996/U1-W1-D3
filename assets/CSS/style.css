@@ -2,7 +2,7 @@ header {
   text-align: center;
   margin-bottom: 0;
 }
-id primo {
+#primo {
   background-color: rgb(249, 227, 164);
 }
 hr {
@@ -30,13 +30,13 @@ ul {
 hr #one {
   border-style: solid;
 }
-id first {
+#first {
   text-align: left;
 }
-id #second {
+#second {
   text-decoration-color: red;
 }
-id #third {
+#third {
   text-decoration-color: blue;
   text-underline-offset: blue;
 }
