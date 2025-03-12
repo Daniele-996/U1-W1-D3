@@ -1,0 +1,26 @@
+header {
+  text-align: center;
+  margin-bottom: 0;
+}
+hr {
+  border-style: solid;
+  color: rgba(249, 227, 164);
+  margin: 0;
+  margin: collapse;
+}
+span {
+  display: block;
+  text-decoration: rgb(6, 120, 118) solid;
+  background-color: rgb(249, 227, 164);
+  margin: 0;
+  margin-top: collapse;
+  background-color: rgb(249, 227, 164);
+}
+article {
+  margin: 20%;
+  margin-top: 0;
+  text-align: center;
+}
+ul {
+  text-align: left;
+}
